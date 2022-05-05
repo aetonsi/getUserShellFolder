@@ -3,5 +3,5 @@
 ```
 getUserShellFolder.exe %userShellFolderName%
 getUserShellFolder.exe Desktop
-> c:\users\xxx\Desktop
+> prints "c:\users\xxx\Desktop"
 ```
